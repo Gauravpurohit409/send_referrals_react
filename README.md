@@ -1,7 +1,7 @@
 # Introduction
 
 This repo contains UI of referrals app. Referrals app gives user ability to signup and invite new friends on the app.
-It's backend is available in [this repo](https://github.com/Gauravpurohit409/send_referrals_react)
+It's backend is available in [this repo](https://github.com/Gauravpurohit409/send_referrals_rails)
 
 ## Available Scripts
 
